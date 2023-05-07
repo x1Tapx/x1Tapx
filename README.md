@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x1tapx" alt="x1tapx" /></a> </p>
 
-- 🔭 I’m currently working on [EndSurve](https://github.com/EndSurve)
+- 🔭 I’m currently working on [LeFoX-Organisation]([https://github.com/playTerra](https://github.com/LeFoX-Organisation))
 
-- 🔭 I’m currently working on [PlayTerra](https://github.com/playTerra)
+- 🔭 Project finished [EndSurve](https://github.com/EndSurve)
 
 - 🌱 I’m currently learning **HTML, CSS**
 
