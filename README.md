@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, SQL**
 
-- 📫 How to reach me **Discord: x1Tapx | Luca#3802**
+- 📫 How to reach me **Discord: x1Tapx | Luca - x1tapx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
